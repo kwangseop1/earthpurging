@@ -13,7 +13,7 @@ public class JDBCTemplate {
         Connection conn = null;
         try {
             Class.forName("oracle.jdbc.driver.OracleDriver");
-            conn = DriverManager.getConnection("jdbc:oracle:thin:@1.220.236.74:15214:xe","earthpruging","123456");
+            conn = DriverManager.getConnection("jdbc:oracle:thin:@1.220.236.74:15214:xe","earthpurging","123456");
             conn.setAutoCommit(false);//자동으로 commit하는 기능을 비활성화
         } catch (ClassNotFoundException e) {
             // TODO Auto-generated catch block
