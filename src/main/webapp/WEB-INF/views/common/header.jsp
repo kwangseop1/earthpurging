@@ -29,7 +29,7 @@
                 <li><a href="javascript:void(0);">쓰담 굿즈</a></li>
                 <li><a href="javascript:void(0);">쓰담 소식</a></li>
                 <li><a href="javascript:void(0);">진행중인 플로깅</a></li>
-                <li><a href="javascript:void(0);">관리자</a></li>
+                <li><a href="/admin.do">관리자</a></li>
             </ul>
             <ul class="util-menu">
                 <li><a href="javascript:void(0);">로그인/회원가입</a></li>
