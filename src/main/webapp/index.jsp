@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Insert title here</title>
+<title>지구푸르깅</title>
 </head>
 <body>
 	<div class="wrapper">

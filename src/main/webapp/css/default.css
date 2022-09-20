@@ -27,13 +27,15 @@
   */
   /* 전체태그 기본 margin, padding 제거 */
   /* 기본 글씨 색 및 폰트 설정 */
-  
-  
-  :root {
-    --main-bg-color: pink;
-    
 
+
+  :root {
+    --main-bg-color: #0078AA;
+    --main-bg-color2 : #F6F6F6;
+    --point-color-blue : #5AC5DB;
+    --point-color-yellow : #F2DF3A;
   }
+
   * {
     color: #252a34;
     font-family: 'Nanum Gothic', sans-serif;
